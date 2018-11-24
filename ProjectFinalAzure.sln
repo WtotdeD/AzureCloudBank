@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ProjectFinalAzure", "ProjectFinalAzure\ProjectFinalAzure.dtproj", "{CCF5EEE3-DF76-4A9A-910A-B4BAA0633A7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCF5EEE3-DF76-4A9A-910A-B4BAA0633A7A}.Development|Default.ActiveCfg = Development
+		{CCF5EEE3-DF76-4A9A-910A-B4BAA0633A7A}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53B8D65E-B185-4F41-A59B-878A5794D02E}
+	EndGlobalSection
+EndGlobal
