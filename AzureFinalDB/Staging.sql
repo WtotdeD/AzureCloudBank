@@ -10,7 +10,9 @@
 	[AfBij] NVARCHAR(150) NULL,
 	[Bedrag] MONEY NULL,
 	[Mutatiesoort] VARCHAR(150) NULL,
-	[Mededelingen] VARCHAR(150) NULL,
+	[Mededelingen] VARCHAR(150) NULL, 
+    [code] NCHAR(10) NULL, 
+    [test] NCHAR(10) NULL,
 )
 
 
